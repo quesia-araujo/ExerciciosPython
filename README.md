@@ -32,55 +32,56 @@ Valorizamos o trabalho em equipe e a criação de um ambiente cooperativo para g
 
 ### Módulo 1
 
-| Exercício | Responsável(s)           |
-|-----------|--------------------------|
-| 1         | Manuele Maurício Lamenha |
-| 2         | Angela Filomena          |
-| 3         | Daniele Ferreira Galvão  |
-| 4         | Daniele Ferreira Galvão  |
-| 5         | Manuele Maurício Lamenha |
+| Exercício | Responsável                 |
+| --------- | --------------------------- |
+| 1         | Manuele Maurício Lamenha    |
+| 2         | Angela Filomena             |
+| 3         | Daniele Ferreira Galvão     |
+| 4         | Daniele Ferreira Galvão     |
+| 5         | Manuele Maurício Lamenha    |
 | 6         | Yohanna Oliveira Cavalcanti |
-| 7         | Siomara Mota             |
-| 8         | Tamar Bender             |
-| 9         | Tamar Bender             |
-| 10        | Siomara Mota             |
+| 7         | Siomara Mota                |
+| 8         | Tamar Bender                |
+| 9         | Tamar Bender                |
+| 10        | Siomara Mota                |
 
-### Módulo 2 
+### Módulo 2
 
-| Exercício | Responsável(s)                   |
-|-----------|----------------------------------|
-| 1         | Manuele Maurício Lamenha         |
-| 2         | Angela Filomena                  |
-| 3         | Tamar Bender                     |
-| 4         | Daniele Ferreira Galvão          |
-| 5         | Ana Paula Martins Braga          |
-| 6         | Yohanna Oliveira Cavalcanti     |
-| 7         | Siomara Mota                     |
-| 8         | Millena Figueredo                |
-| 9         | Ana Paula Martins Braga          |
-| 10        | Ana Paula Martins Braga          |
+| Exercício | Responsável                 |
+| --------- | --------------------------- |
+| 1         | Manuele Maurício Lamenha    |
+| 2         | Angela Filomena             |
+| 3         | Tamar Bender                |
+| 4         | Daniele Ferreira Galvão     |
+| 5         | Ana Paula Martins Braga     |
+| 6         | Yohanna Oliveira Cavalcanti |
+| 7         | Siomara Mota                |
+| 8         | Millena Figueredo           |
+| 9         | Ana Paula Martins Braga     |
+| 10        | Ana Paula Martins Braga     |
 
 ### Módulo 3
 
-| Exercício | Responsável(s)         |
-|-----------|------------------------|
-| 1         | Angela Filomena        |
-| 2         | Millena Figueredo      |
-| 3         | Indhira Viana Freire   |
-| 4         | Indhira Viana Freire   |
-| 5         | Indhira Viana Freire   |
+| Exercício | Responsável                 |
+| --------- | --------------------------- |
+| 1         | Angela Filomena             |
+| 2         | Millena Figueredo           |
+| 3         | Indhira Viana Freire        |
+| 4         | Indhira Viana Freire        |
+| 5         | Indhira Viana Freire        |
 | 6         | Yohanna Oliveira Cavalcanti |
 
 ### Módulo 4
 
-| Exercício | Responsável(s)           |
-|-----------|--------------------------|
-| 1         | Daniele Ferreira Galvão |
-| 2         | Millena Figueredo       |
+| Exercício | Responsável                 |
+| --------- | --------------------------- |
+| 1         | Daniele Ferreira Galvão     |
+| 2         | Millena Figueredo           |
 | 3         | Yohanna Oliveira Cavalcanti |
-| 4         | Indhira Viana Freire    |
-| 5         | Indhira Viana Freire    |
-| 6         | Quesia De Araújo Santos |
+| 4         | Quesia de Araújo Santos     |
+| 5         | Quesia de Araújo Santos     |
+| 6         | Quesia De Araújo Santos     |
+
 </div>
 </br>
 
